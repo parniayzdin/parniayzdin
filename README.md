@@ -6,7 +6,8 @@ I mostly work on small web apps and backend services to practice full-stack deve
   
 I work with web technologies such as React, HTML, and CSS, and backend tools like FastAPI and simple REST APIs to create my projects.
 
-### I’m always looking for ways to improve and learn from new projects and experiences.🌱
+<p><sub>I’m always looking for ways to improve and learn from new projects and experiences. 🌱</sub></p>
+
 
 
 
