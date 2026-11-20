@@ -1,9 +1,18 @@
-Hey, I’m Parnia 👋
+## Hi there 👋
 
-I study software engineering at McMaster University and currently work as a Software Developer Intern at BMO. This winter, I’ll be interning at CIBC as a Software/Application Developer.
+I’m Parnia, a software engineering student interested in learning how to build software tools. Right now I am mostly creating projects to build my skills and get more comfortable with different tools and technologies.
 
-I use Java and Spring Boot to build APIs and TypeScript and Angular to turn data into dashboards. I also enjoy working with AWS to deploy applications and see how they behave once they’re running.
+I mostly work on small web apps and backend services to practice full-stack development. I am also strengthening my skills in C, Java, and Python through my course projects.
+  
+I work with web technologies such as React, HTML, and CSS, and backend tools like FastAPI and simple REST APIs to create my projects.
 
-I’m especially interested in machine learning research. At McMaster’s SwiftWare Lab, I use Python and PyTorch to test ways to speed up model predictions and reduce GPU memory use.
+<p align="center"><em>Always curious and looking for ways to improve from new experiences. </em></p>
 
-🌐 [Explore my portfolio](https://portfolioparnia.vercel.app/) · [Say hi on LinkedIn](https://www.linkedin.com/in/parnia-yazdinia-983703214/)
+
+
+
+
+
+
+
+
