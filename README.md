@@ -1,18 +1,7 @@
-## Hi there 👋
+## Hi, I’m Parnia 👋
 
-I’m Parnia, a software engineering student interested in learning how to build software tools. Right now I am mostly creating projects to build my skills and get more comfortable with different tools and technologies.
+I study software engineering at McMaster University. I’m currently a Software Developer Intern at **BMO**, where I build tools that help teams track payments and troubleshoot failures. In winter 2027, I’ll join **CIBC** as a Software/Application Developer.
 
-I mostly work on small web apps and backend services to practice full-stack development. I am also strengthening my skills in C, Java, and Python through my course projects.
-  
-I work with web technologies such as React, HTML, and CSS, and backend tools like FastAPI and simple REST APIs to create my projects.
+I wanted to see what a hydrogen atom would look like from the inside, so I built one you can fly through using C++ and OpenGL. [Watch the Hydrogen Atom Explorer demo](https://github.com/parniayzdin/Hydrogen-Atom-Explorer#demo)
 
-<p align="center"><em>Always curious and looking for ways to improve from new experiences. </em></p>
-
-
-
-
-
-
-
-
-
+[Portfolio](https://portfolioparnia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/parnia-yazdinia-983703214/)
