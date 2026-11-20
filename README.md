@@ -1,4 +1,4 @@
-Hey, I’m Parnia 👋 Glad you’re here!
+Hey, I’m Parnia 👋
 
 I study software engineering at McMaster University and currently work as a Software Developer Intern at BMO. This winter, I’ll be interning at CIBC as a Software/Application Developer.
 
