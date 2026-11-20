@@ -4,7 +4,7 @@ I’m Parnia, a software engineering student at McMaster University. I’m curre
 
 I use AWS and GitHub Actions to deploy cloud infrastructure. I also built a dashboard with Java, Spring Boot, and Angular that helps our team track payments and troubleshoot failures.
   
-Outside of work, I take part in hackathons and build things like a desk robot that helps students stay focused. In winter 2027, I’ll join CIBC as a Software/Application Developer.
+Outside of work, I participate in hackathons and build things like a desk robot that helps students stay focused. In winter 2027, I’ll join CIBC as a Software/Application Developer.
 
 <p align="center"><em>Always curious and looking for ways to improve from new experiences. </em></p>
 
