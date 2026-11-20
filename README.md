@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I’m Parnia, a software engineering student interested in learning how to build software tools. Right now I am mostly creating projects to build my skills and get more comfortable with different tools and technologies.
+I’m Parnia, a software engineering student at McMaster University. I’m currently a Software Developer Intern at BMO, working on the systems behind wire payments.
 
-I mostly work on small web apps and backend services to practice full-stack development. I am also strengthening my skills in C, Java, and Python through my course projects.
+I use AWS and GitHub Actions to deploy cloud infrastructure. I also built a dashboard with Java, Spring Boot, and Angular that helps our team track payments and troubleshoot failures.
   
-I work with web technologies such as React, HTML, and CSS, and backend tools like FastAPI and simple REST APIs to create my projects.
+Outside of work, I like building small web apps and experimenting with Python. In winter 2027, I’ll join CIBC as a Software/Application Developer.
 
 <p align="center"><em>Always curious and looking for ways to improve from new experiences. </em></p>
 
