@@ -1,7 +1,9 @@
-## Hi, I’m Parnia!
+## Hey, I’m Parnia 👋
 
-I study software engineering at McMaster University and currently work as a **Software Developer Intern at BMO**.
+Glad you’re here! I study software engineering at McMaster University and currently work as a **Software Developer Intern at BMO**.
 
-I build APIs with Java and Spring Boot and web interfaces with TypeScript and Angular. I also work with AWS and use Python and PyTorch for research.
+🛠️ **What I work with**
 
-[Portfolio](https://portfolioparnia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/parnia-yazdinia-983703214/)
+I use Java and Spring Boot for APIs, TypeScript and Angular for the web, AWS for cloud development, and Python and PyTorch for research.
+
+🌐 [Explore my portfolio](https://portfolioparnia.vercel.app/) · [Say hi on LinkedIn](https://www.linkedin.com/in/parnia-yazdinia-983703214/)
